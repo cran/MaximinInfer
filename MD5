@@ -1,0 +1,14 @@
+0bab363b98661df4a88fdcf5c706064c *DESCRIPTION
+66f29a8dbec98349c2a5102afa83836c *NAMESPACE
+f53487986df924018a5f46b380782cae *R/Maximin.R
+e8900f518ee4bed4993929032b0ab931 *R/Methods.R
+23119459cae425290d4aa612bb77e589 *R/sample_data.R
+979f5aa6e1174288bf7e7e2390c81265 *R/source_functions.R
+cf49b5c0e2fdd5598f63b413c4c9b0ef *README.md
+2c9709294a176d372cdef470dbd05af4 *data/sample_data.rda
+36a8a2248234e92c0838bb63fd1e8601 *man/Maximin.Rd
+dd2425c13d29cb47864262753bd47d61 *man/MaximinInfer.Rd
+c64be1ff7d6fe6767d1a4abcb7de6957 *man/decide_delta.Rd
+6aac14edd1e100139fdedbd0135f19b5 *man/infer.Rd
+930ca12022e406db6f9d6069eb352d3d *man/measure_instability.Rd
+c3a3d36e1dd7510b3ad889839368ad15 *man/sample_data.Rd
